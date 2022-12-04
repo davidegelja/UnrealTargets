@@ -6,3 +6,5 @@
  Goal of the game is to find and shoot all hidden targets.
 
 The game is not optimized and is work in progress. 
+
+Youtube vide of the game: https://youtu.be/fQYyaIlmJ4w
